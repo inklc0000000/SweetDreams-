@@ -1,0 +1,13 @@
+{
+  "name": "discord-desconectar-bot",
+  "version": "1.0.0",
+  "description": "Bot para desconectar usuarios a una hora fija.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
